@@ -134,7 +134,7 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img align="center"
+<p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyettc1112&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=SCSS&langs_count=10&custom_title=Languages"
     alt="quyettc1112" 
     bg_color=#808080/></p>
