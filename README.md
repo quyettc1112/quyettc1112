@@ -15,6 +15,7 @@
 
 - 🌱 I’m currently learning Back-End Development and other programming languages
 
+
 - 📫 How to reach me **quyettran011102@gmail.com**
 
 - ⚡ Fun fact : If Code were poetry, I would be a poet.
@@ -134,7 +135,7 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=quyettc1112&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyettc1112&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=SCSS&langs_count=10&custom_title=Languages"
     alt="quyettc1112" 
     bg_color=#808080/></p>
 
