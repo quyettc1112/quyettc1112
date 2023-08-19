@@ -27,7 +27,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:
 <p align="left">
   
   <a href="https://www.facebook.com/tranquyet011102/" target="blank"><img align="center"
@@ -42,7 +42,7 @@
  
  
 </p>
-
+</h3>
 <br>
 
 <h3 align="left">Technology:    
