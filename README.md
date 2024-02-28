@@ -56,7 +56,8 @@
       width="40" height="40" /> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a> 
+      alt="html5" width="40" height="40" /> </a>
+ 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -132,7 +133,7 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyettc1112&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=SCSS&langs_count=10&custom_title=Languages"
+    src="https://github-readme-stats.vercel.app/api?username=quyettc1112&show_icons=true&theme=radical"
     alt="quyettc1112" 
     bg_color=#808080/></p>
 
