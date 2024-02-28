@@ -33,9 +33,6 @@
   <a href="https://www.facebook.com/tranquyet011102/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="40" width="40" /></a>
-  <a href="https://github.com/quyettc1112/" target="blank"><img align="center"
-      src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
-      alt="adam pithen wala" height="50" width="50" /></a>
   <a href="mailto:quyettran011102" target="blank"><img align="center"
       src="https://juriesquemas.es/wp-content/uploads/2021/05/1200px-Gmail_icon_2020.svg_-768x576.png"
       alt="_._.adam._" height="40" width="40" /></a>
