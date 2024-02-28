@@ -138,12 +138,10 @@
     bg_color=#808080/></p>
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=quyettc1112&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="quyettc1112" /></p>
+
 
     
 
-<br>
 
 
 
