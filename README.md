@@ -143,15 +143,11 @@ a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quyettc1112&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="quyettc1112" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyettc1112&hide=javascript,html" alt="quyettc1112" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=quyettc1112" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quyettc1112&layout=compact&langs_count=8&card_width=320" />
-</a>
+
+
 
       
