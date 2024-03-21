@@ -39,8 +39,7 @@
       alt="adam pithen wala" height="40" width="40" /></a>
   <a href="mailto:quyettran011102" target="blank"><img align="center"
       src="https://juriesquemas.es/wp-content/uploads/2021/05/1200px-Gmail_icon_2020.svg_-768x576.png"
-      alt="_._.adam._" height="40" width="40" /></
-a>
+      alt="_._.adam._" height="40" width="40" />
  
  
 </p>
