@@ -23,9 +23,6 @@
 - 👀 Love watching movies, cats and socializing with friends
 
 
-  
-
-
 
 
 
