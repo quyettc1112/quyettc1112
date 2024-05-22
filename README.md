@@ -131,7 +131,7 @@
 
 <h3>Statistical Data :</h3>
 <p><img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=quyettc1112&show_icons=true&theme=blue"
+    src="https://github-readme-stats.vercel.app/api?username=quyettc1112&show_icons=true&theme=tokyonight"
     alt="quyettc1112" 
     bg_color=#808080/></p>
 
