@@ -131,16 +131,11 @@
 <br>
 
 <h3>Statistical Data :</h3>
-<p><img align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=quyettc1112&show_icons=true&theme=tokyonight"
-    alt="quyettc1112" 
-    bg_color=#8080810/></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=quyettc1112&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quyettc1112&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=quyettc1112&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="quyettc1112" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quyettc1112&hide=javascript,html" alt="quyettc1112" /></p>
 
 
 
