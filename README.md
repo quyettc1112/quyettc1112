@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left">🌱 I’m an Android developer and learning other programming languages<br><br>📫 How to reach me quyettran011102@gmail.com</p>
+<p align="left">🌱 I’m an Android developer and learning other programming languages<br>
+<br>📫 How to reach me quyettran011102@gmail.com</p>
 
 
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=quyettc1112&label=Profile%20views&color=0e75b6&style=flat"
@@ -24,6 +25,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="45" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="45" alt="androidstudio logo"  />
   <img width="12" />
